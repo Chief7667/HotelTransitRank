@@ -1,0 +1,11 @@
+poi_name,category,lat,lon,weight
+Times Square,landmark,40.758,-73.9855,1.0
+Central Park,park,40.7812,-73.9665,0.95
+Empire State Building,landmark,40.7484,-73.9857,0.95
+Grand Central Terminal,transportation,40.7527,-73.9772,0.9
+World Trade Center,landmark,40.7127,-74.0134,0.9
+Brooklyn Bridge,landmark,40.7061,-73.9969,0.85
+The Metropolitan Museum of Art,museum,40.7794,-73.9632,0.85
+SoHo,shopping,40.7233,-74.003,0.75
+Chelsea Market,food,40.7424,-74.006,0.7
+Williamsburg,nightlife/food,40.7081,-73.9571,0.65

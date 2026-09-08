@@ -1,0 +1,10 @@
+poi_name,lat,lon,weight,original_poi_count
+"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",40.754595714285706,-73.983173,4.6,7
+"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",40.780317,-73.964951,1.2,2
+Williamsburg,40.708116,-73.95707,1.0,1
+SoHo,40.723301,-74.002988,0.95,1
+World Trade Center,40.712742,-74.013382,0.7,1
+Brooklyn Bridge,40.706086,-73.996864,0.55,1
+Statue of Liberty,40.689211,-74.044643,0.4,1
+Washington Square Park,40.730823,-73.997332,0.35,1
+Chelsea Market,40.742439,-74.006143,0.25,1

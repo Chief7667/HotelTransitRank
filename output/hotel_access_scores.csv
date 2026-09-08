@@ -1,0 +1,9 @@
+hotel_name,area,lat,lon,nearest_station,walk_to_station_min,average_trip_time_to_pois_min,hotel_access_score
+Sample Hotel - Grand Central,Midtown East,40.752,-73.977,Grand Central-42 St,0.35,11.41,73.21
+Sample Hotel - Times Square,Times Square,40.759,-73.9845,49 St,1.31,12.71,70.76
+Sample Hotel - Chelsea,Chelsea,40.7465,-74.0014,23 St,3.63,14.4,67.08
+Sample Hotel - Long Island City,Long Island City,40.7505,-73.9402,Queensboro Plaza,0.11,14.47,66.89
+Sample Hotel - Financial District,FiDi,40.7069,-74.0113,Broad St,0.64,14.66,66.37
+Sample Hotel - Downtown Brooklyn,Downtown Brooklyn,40.6932,-73.9858,Jay St-MetroTech,1.43,17.41,61.21
+Sample Hotel - Upper West Side,Upper West Side,40.787,-73.9754,86 St,2.44,18.08,61.15
+Sample Hotel - Williamsburg,Williamsburg,40.713,-73.961,Marcy Av,7.3,22.04,53.45
