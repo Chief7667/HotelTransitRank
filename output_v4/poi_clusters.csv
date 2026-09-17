@@ -1,0 +1,12 @@
+cluster_id,cluster_name,poi_count,total_weight,poi_names,display_lat,display_lon
+0,Cluster 1,5,20.5,Times Square | Grand Central Terminal | Rockefeller Center | MoMA | Central Park South,40.75936,-73.97919999999999
+1,Empire State Building,1,4.5,Empire State Building,40.7484,-73.9857
+2,Cluster 3,2,6.0,The High Line | Hudson Yards / Vessel,40.7509,-74.0035
+3,SoHo Shopping District,1,3.0,SoHo Shopping District,40.7233,-74.003
+4,One World Trade Center,1,4.0,One World Trade Center,40.7127,-74.0134
+5,Wall Street / Charging Bull,1,3.0,Wall Street / Charging Bull,40.7055,-74.0134
+6,Brooklyn Bridge Promenade,1,3.5,Brooklyn Bridge Promenade,40.7061,-73.9969
+7,DUMBO Waterfront,1,3.0,DUMBO Waterfront,40.7033,-73.9881
+8,Williamsburg Bedford Ave,1,2.5,Williamsburg Bedford Ave,40.7161,-73.9584
+9,Metropolitan Museum of Art,1,4.5,Metropolitan Museum of Art,40.7794,-73.9632
+10,Washington Square Park,1,3.0,Washington Square Park,40.7308,-73.9973

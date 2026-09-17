@@ -1,109 +1,109 @@
 hotel_name,hotel_area,poi_name,poi_weight,hotel_nearest_station,poi_nearest_station,hotel_walk_min,poi_walk_min,rough_subway_min,estimated_total_trip_min,access_score
-New York Marriott Marquis,Times Square,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,49 St,42 St-Bryant Pk,2.83,1.56,3.0,7.39,80.98
-New York Marriott Marquis,Times Square,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,49 St,81 St-Museum of Natural History,2.83,7.73,5.2,15.75,63.76
-New York Marriott Marquis,Times Square,Williamsburg,1.0,49 St,Marcy Av,2.83,0.8,12.29,15.92,63.45
-New York Marriott Marquis,Times Square,SoHo,0.95,49 St,Canal St,2.83,3.52,9.04,15.39,64.42
+New York Marriott Marquis,Times Square,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,49 St,42 St-Bryant Pk,2.83,1.56,3.0,7.39,80.98
+New York Marriott Marquis,Times Square,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,49 St,81 St-Museum of Natural History,2.83,7.73,5.2,15.75,63.76
+New York Marriott Marquis,Times Square,Statue of Liberty,1.0,49 St,South Ferry,2.83,37.22,13.79,53.83,21.48
 New York Marriott Marquis,Times Square,World Trade Center,0.7,49 St,WTC Cortlandt,2.83,1.78,11.69,16.3,62.78
-New York Marriott Marquis,Times Square,Brooklyn Bridge,0.55,49 St,Fulton St,2.83,11.23,11.85,25.9,47.71
-New York Marriott Marquis,Times Square,Statue of Liberty,0.4,49 St,South Ferry,2.83,37.22,13.79,53.83,21.48
+New York Marriott Marquis,Times Square,Brooklyn Bridge,0.65,49 St,Fulton St,2.83,11.23,11.85,25.9,47.71
+New York Marriott Marquis,Times Square,Chelsea Market,0.4,49 St,14 St,2.83,5.16,5.16,13.14,68.69
 New York Marriott Marquis,Times Square,Washington Square Park,0.35,49 St,W 4 St-Wash Sq,2.83,3.94,6.72,13.49,68.02
-New York Marriott Marquis,Times Square,Chelsea Market,0.25,49 St,14 St,2.83,5.16,5.16,13.14,68.69
-The Plaza Hotel,Central Park South,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,5 Av/59 St,42 St-Bryant Pk,1.33,1.56,3.02,5.91,84.47
-The Plaza Hotel,Central Park South,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,5 Av/59 St,81 St-Museum of Natural History,1.33,7.73,3.7,12.76,69.46
-The Plaza Hotel,Central Park South,Williamsburg,1.0,5 Av/59 St,Marcy Av,1.33,0.8,12.83,14.95,65.23
-The Plaza Hotel,Central Park South,SoHo,0.95,5 Av/59 St,Canal St,1.33,3.52,10.86,15.7,63.85
+New York Marriott Marquis,Times Square,SoHo,0.3,49 St,Canal St,2.83,3.52,9.04,15.39,64.42
+New York Marriott Marquis,Times Square,Williamsburg,0.25,49 St,Marcy Av,2.83,0.8,12.29,15.92,63.45
+The Plaza Hotel,Central Park South,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,5 Av/59 St,42 St-Bryant Pk,1.33,1.56,3.02,5.91,84.47
+The Plaza Hotel,Central Park South,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,5 Av/59 St,81 St-Museum of Natural History,1.33,7.73,3.7,12.76,69.46
+The Plaza Hotel,Central Park South,Statue of Liberty,1.0,5 Av/59 St,South Ferry,1.33,37.22,15.52,54.07,21.34
 The Plaza Hotel,Central Park South,World Trade Center,0.7,5 Av/59 St,WTC Cortlandt,1.33,1.78,13.48,16.59,62.26
-The Plaza Hotel,Central Park South,Brooklyn Bridge,0.55,5 Av/59 St,Fulton St,1.33,11.23,13.53,26.09,47.46
-The Plaza Hotel,Central Park South,Statue of Liberty,0.4,5 Av/59 St,South Ferry,1.33,37.22,15.52,54.07,21.34
+The Plaza Hotel,Central Park South,Brooklyn Bridge,0.65,5 Av/59 St,Fulton St,1.33,11.23,13.53,26.09,47.46
+The Plaza Hotel,Central Park South,Chelsea Market,0.4,5 Av/59 St,14 St,1.33,5.16,7.15,13.63,67.74
 The Plaza Hotel,Central Park South,Washington Square Park,0.35,5 Av/59 St,W 4 St-Wash Sq,1.33,3.94,8.55,13.82,67.38
-The Plaza Hotel,Central Park South,Chelsea Market,0.25,5 Av/59 St,14 St,1.33,5.16,7.15,13.63,67.74
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,34 St-Penn Station,42 St-Bryant Pk,0.08,1.56,3.0,4.64,87.59
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,34 St-Penn Station,81 St-Museum of Natural History,0.08,7.73,7.4,15.21,64.76
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Williamsburg,1.0,34 St-Penn Station,Marcy Av,0.08,0.8,11.47,12.34,70.28
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,SoHo,0.95,34 St-Penn Station,Canal St,0.08,3.52,6.9,10.49,74.09
+The Plaza Hotel,Central Park South,SoHo,0.3,5 Av/59 St,Canal St,1.33,3.52,10.86,15.7,63.85
+The Plaza Hotel,Central Park South,Williamsburg,0.25,5 Av/59 St,Marcy Av,1.33,0.8,12.83,14.95,65.23
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,34 St-Penn Station,42 St-Bryant Pk,0.08,1.56,3.0,4.64,87.59
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,34 St-Penn Station,81 St-Museum of Natural History,0.08,7.73,7.4,15.21,64.76
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Statue of Liberty,1.0,34 St-Penn Station,South Ferry,0.08,37.22,11.68,48.98,24.68
 "The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,World Trade Center,0.7,34 St-Penn Station,WTC Cortlandt,0.08,1.78,9.54,11.4,72.21
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Brooklyn Bridge,0.55,34 St-Penn Station,Fulton St,0.08,11.23,9.79,21.09,54.73
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Statue of Liberty,0.4,34 St-Penn Station,South Ferry,0.08,37.22,11.68,48.98,24.68
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Brooklyn Bridge,0.65,34 St-Penn Station,Fulton St,0.08,11.23,9.79,21.09,54.73
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Chelsea Market,0.4,34 St-Penn Station,14 St,0.08,5.16,3.0,8.24,79.03
 "The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Washington Square Park,0.35,34 St-Penn Station,W 4 St-Wash Sq,0.08,3.94,4.6,8.61,78.18
-"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Chelsea Market,0.25,34 St-Penn Station,14 St,0.08,5.16,3.0,8.24,79.03
-Moxy NYC Times Square,Times Square / Herald Square,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,34 St-Penn Station,42 St-Bryant Pk,2.85,1.56,3.0,7.41,80.92
-Moxy NYC Times Square,Times Square / Herald Square,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,34 St-Penn Station,81 St-Museum of Natural History,2.85,7.73,7.4,17.98,59.82
-Moxy NYC Times Square,Times Square / Herald Square,Williamsburg,1.0,34 St-Penn Station,Marcy Av,2.85,0.8,11.47,15.12,64.92
-Moxy NYC Times Square,Times Square / Herald Square,SoHo,0.95,34 St-Penn Station,Canal St,2.85,3.52,6.9,13.27,68.45
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,SoHo,0.3,34 St-Penn Station,Canal St,0.08,3.52,6.9,10.49,74.09
+"The New Yorker, A Wyndham Hotel",Penn Station / Midtown West,Williamsburg,0.25,34 St-Penn Station,Marcy Av,0.08,0.8,11.47,12.34,70.28
+Moxy NYC Times Square,Times Square / Herald Square,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,34 St-Penn Station,42 St-Bryant Pk,2.85,1.56,3.0,7.41,80.92
+Moxy NYC Times Square,Times Square / Herald Square,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,34 St-Penn Station,81 St-Museum of Natural History,2.85,7.73,7.4,17.98,59.82
+Moxy NYC Times Square,Times Square / Herald Square,Statue of Liberty,1.0,34 St-Penn Station,South Ferry,2.85,37.22,11.68,51.75,22.8
 Moxy NYC Times Square,Times Square / Herald Square,World Trade Center,0.7,34 St-Penn Station,WTC Cortlandt,2.85,1.78,9.54,14.17,66.71
-Moxy NYC Times Square,Times Square / Herald Square,Brooklyn Bridge,0.55,34 St-Penn Station,Fulton St,2.85,11.23,9.79,23.87,50.56
-Moxy NYC Times Square,Times Square / Herald Square,Statue of Liberty,0.4,34 St-Penn Station,South Ferry,2.85,37.22,11.68,51.75,22.8
+Moxy NYC Times Square,Times Square / Herald Square,Brooklyn Bridge,0.65,34 St-Penn Station,Fulton St,2.85,11.23,9.79,23.87,50.56
+Moxy NYC Times Square,Times Square / Herald Square,Chelsea Market,0.4,34 St-Penn Station,14 St,2.85,5.16,3.0,11.01,73.01
 Moxy NYC Times Square,Times Square / Herald Square,Washington Square Park,0.35,34 St-Penn Station,W 4 St-Wash Sq,2.85,3.94,4.6,11.39,72.23
-Moxy NYC Times Square,Times Square / Herald Square,Chelsea Market,0.25,34 St-Penn Station,14 St,2.85,5.16,3.0,11.01,73.01
-Ace Hotel New York,NoMad,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,28 St,42 St-Bryant Pk,0.54,1.56,3.0,5.1,86.43
-Ace Hotel New York,NoMad,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,28 St,81 St-Museum of Natural History,0.54,7.73,8.46,16.73,61.99
-Ace Hotel New York,NoMad,Williamsburg,1.0,28 St,Marcy Av,0.54,0.8,9.77,11.11,72.8
-Ace Hotel New York,NoMad,SoHo,0.95,28 St,Canal St,0.54,3.52,5.84,9.91,75.35
+Moxy NYC Times Square,Times Square / Herald Square,SoHo,0.3,34 St-Penn Station,Canal St,2.85,3.52,6.9,13.27,68.45
+Moxy NYC Times Square,Times Square / Herald Square,Williamsburg,0.25,34 St-Penn Station,Marcy Av,2.85,0.8,11.47,15.12,64.92
+Ace Hotel New York,NoMad,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,28 St,42 St-Bryant Pk,0.54,1.56,3.0,5.1,86.43
+Ace Hotel New York,NoMad,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,28 St,81 St-Museum of Natural History,0.54,7.73,8.46,16.73,61.99
+Ace Hotel New York,NoMad,Statue of Liberty,1.0,28 St,South Ferry,0.54,37.22,10.53,48.3,25.16
 Ace Hotel New York,NoMad,World Trade Center,0.7,28 St,WTC Cortlandt,0.54,1.78,8.47,10.79,73.46
-Ace Hotel New York,NoMad,Brooklyn Bridge,0.55,28 St,Fulton St,0.54,11.23,8.57,20.34,55.93
-Ace Hotel New York,NoMad,Statue of Liberty,0.4,28 St,South Ferry,0.54,37.22,10.53,48.3,25.16
+Ace Hotel New York,NoMad,Brooklyn Bridge,0.65,28 St,Fulton St,0.54,11.23,8.57,20.34,55.93
+Ace Hotel New York,NoMad,Chelsea Market,0.4,28 St,14 St,0.54,5.16,3.0,8.7,77.99
 Ace Hotel New York,NoMad,Washington Square Park,0.35,28 St,W 4 St-Wash Sq,0.54,3.94,3.54,8.02,79.52
-Ace Hotel New York,NoMad,Chelsea Market,0.25,28 St,14 St,0.54,5.16,3.0,8.7,77.99
-Lotte New York Palace,Midtown East,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,5 Av/53 St,42 St-Bryant Pk,2.91,1.56,3.0,7.47,80.78
-Lotte New York Palace,Midtown East,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,5 Av/53 St,81 St-Museum of Natural History,2.91,7.73,4.76,15.4,64.41
-Lotte New York Palace,Midtown East,Williamsburg,1.0,5 Av/53 St,Marcy Av,2.91,0.8,11.89,15.6,64.03
-Lotte New York Palace,Midtown East,SoHo,0.95,5 Av/53 St,Canal St,2.91,3.52,9.81,16.24,62.87
+Ace Hotel New York,NoMad,SoHo,0.3,28 St,Canal St,0.54,3.52,5.84,9.91,75.35
+Ace Hotel New York,NoMad,Williamsburg,0.25,28 St,Marcy Av,0.54,0.8,9.77,11.11,72.8
+Lotte New York Palace,Midtown East,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,5 Av/53 St,42 St-Bryant Pk,2.91,1.56,3.0,7.47,80.78
+Lotte New York Palace,Midtown East,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,5 Av/53 St,81 St-Museum of Natural History,2.91,7.73,4.76,15.4,64.41
+Lotte New York Palace,Midtown East,Statue of Liberty,1.0,5 Av/53 St,South Ferry,2.91,37.22,14.45,54.58,21.02
 Lotte New York Palace,Midtown East,World Trade Center,0.7,5 Av/53 St,WTC Cortlandt,2.91,1.78,12.42,17.12,61.32
-Lotte New York Palace,Midtown East,Brooklyn Bridge,0.55,5 Av/53 St,Fulton St,2.91,11.23,12.46,26.6,46.77
-Lotte New York Palace,Midtown East,Statue of Liberty,0.4,5 Av/53 St,South Ferry,2.91,37.22,14.45,54.58,21.02
+Lotte New York Palace,Midtown East,Brooklyn Bridge,0.65,5 Av/53 St,Fulton St,2.91,11.23,12.46,26.6,46.77
+Lotte New York Palace,Midtown East,Chelsea Market,0.4,5 Av/53 St,14 St,2.91,5.16,6.18,14.26,66.54
 Lotte New York Palace,Midtown East,Washington Square Park,0.35,5 Av/53 St,W 4 St-Wash Sq,2.91,3.94,7.51,14.37,66.33
-Lotte New York Palace,Midtown East,Chelsea Market,0.25,5 Av/53 St,14 St,2.91,5.16,6.18,14.26,66.54
-Conrad New York Downtown,Battery Park City,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,WTC Cortlandt,42 St-Bryant Pk,5.74,1.56,10.51,17.82,60.11
-Conrad New York Downtown,Battery Park City,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,WTC Cortlandt,81 St-Museum of Natural History,5.74,7.73,16.88,30.35,42.01
-Conrad New York Downtown,Battery Park City,Williamsburg,1.0,WTC Cortlandt,Marcy Av,5.74,0.8,9.21,15.75,63.76
-Conrad New York Downtown,Battery Park City,SoHo,0.95,WTC Cortlandt,Canal St,5.74,3.52,3.0,12.26,70.44
+Lotte New York Palace,Midtown East,SoHo,0.3,5 Av/53 St,Canal St,2.91,3.52,9.81,16.24,62.87
+Lotte New York Palace,Midtown East,Williamsburg,0.25,5 Av/53 St,Marcy Av,2.91,0.8,11.89,15.6,64.03
+Conrad New York Downtown,Battery Park City,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,WTC Cortlandt,42 St-Bryant Pk,5.74,1.56,10.51,17.82,60.11
+Conrad New York Downtown,Battery Park City,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,WTC Cortlandt,81 St-Museum of Natural History,5.74,7.73,16.88,30.35,42.01
+Conrad New York Downtown,Battery Park City,Statue of Liberty,1.0,WTC Cortlandt,South Ferry,5.74,37.22,3.0,45.96,26.9
 Conrad New York Downtown,Battery Park City,World Trade Center,0.7,WTC Cortlandt,WTC Cortlandt,5.74,1.78,3.0,10.52,74.03
-Conrad New York Downtown,Battery Park City,Brooklyn Bridge,0.55,WTC Cortlandt,Fulton St,5.74,11.23,3.0,19.97,56.52
-Conrad New York Downtown,Battery Park City,Statue of Liberty,0.4,WTC Cortlandt,South Ferry,5.74,37.22,3.0,45.96,26.9
+Conrad New York Downtown,Battery Park City,Brooklyn Bridge,0.65,WTC Cortlandt,Fulton St,5.74,11.23,3.0,19.97,56.52
+Conrad New York Downtown,Battery Park City,Chelsea Market,0.4,WTC Cortlandt,14 St,5.74,5.16,6.7,17.6,60.48
 Conrad New York Downtown,Battery Park City,Washington Square Park,0.35,WTC Cortlandt,W 4 St-Wash Sq,5.74,3.94,4.97,14.65,65.79
-Conrad New York Downtown,Battery Park City,Chelsea Market,0.25,WTC Cortlandt,14 St,5.74,5.16,6.7,17.6,60.48
-"The Standard, High Line",Meatpacking District,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,8 Av,42 St-Bryant Pk,5.76,1.56,4.42,11.74,71.51
-"The Standard, High Line",Meatpacking District,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,8 Av,81 St-Museum of Natural History,5.76,7.73,10.59,24.08,50.26
-"The Standard, High Line",Meatpacking District,Williamsburg,1.0,8 Av,Marcy Av,5.76,0.8,10.29,16.85,61.79
-"The Standard, High Line",Meatpacking District,SoHo,0.95,8 Av,Canal St,5.76,3.52,3.81,13.1,68.79
+Conrad New York Downtown,Battery Park City,SoHo,0.3,WTC Cortlandt,Canal St,5.74,3.52,3.0,12.26,70.44
+Conrad New York Downtown,Battery Park City,Williamsburg,0.25,WTC Cortlandt,Marcy Av,5.74,0.8,9.21,15.75,63.76
+"The Standard, High Line",Meatpacking District,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,8 Av,42 St-Bryant Pk,5.76,1.56,4.42,11.74,71.51
+"The Standard, High Line",Meatpacking District,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,8 Av,81 St-Museum of Natural History,5.76,7.73,10.59,24.08,50.26
+"The Standard, High Line",Meatpacking District,Statue of Liberty,1.0,8 Av,South Ferry,5.76,37.22,8.59,51.57,22.91
 "The Standard, High Line",Meatpacking District,World Trade Center,0.7,8 Av,WTC Cortlandt,5.76,1.78,6.42,13.96,67.1
-"The Standard, High Line",Meatpacking District,Brooklyn Bridge,0.55,8 Av,Fulton St,5.76,11.23,6.79,23.77,50.7
-"The Standard, High Line",Meatpacking District,Statue of Liberty,0.4,8 Av,South Ferry,5.76,37.22,8.59,51.57,22.91
+"The Standard, High Line",Meatpacking District,Brooklyn Bridge,0.65,8 Av,Fulton St,5.76,11.23,6.79,23.77,50.7
+"The Standard, High Line",Meatpacking District,Chelsea Market,0.4,8 Av,14 St,5.76,5.16,3.0,13.92,67.19
 "The Standard, High Line",Meatpacking District,Washington Square Park,0.35,8 Av,W 4 St-Wash Sq,5.76,3.94,3.0,12.7,69.56
-"The Standard, High Line",Meatpacking District,Chelsea Market,0.25,8 Av,14 St,5.76,5.16,3.0,13.92,67.19
-Arlo SoHo,SoHo / Hudson Square,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,Canal St,42 St-Bryant Pk,2.65,1.56,7.88,12.08,70.8
-Arlo SoHo,SoHo / Hudson Square,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,Canal St,81 St-Museum of Natural History,2.65,7.73,14.24,24.62,49.5
-Arlo SoHo,SoHo / Hudson Square,Williamsburg,1.0,Canal St,Marcy Av,2.65,0.8,8.79,12.24,70.49
-Arlo SoHo,SoHo / Hudson Square,SoHo,0.95,Canal St,Canal St,2.65,3.52,3.0,9.17,76.96
+"The Standard, High Line",Meatpacking District,SoHo,0.3,8 Av,Canal St,5.76,3.52,3.81,13.1,68.79
+"The Standard, High Line",Meatpacking District,Williamsburg,0.25,8 Av,Marcy Av,5.76,0.8,10.29,16.85,61.79
+Arlo SoHo,SoHo / Hudson Square,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,Canal St,42 St-Bryant Pk,2.65,1.56,7.88,12.08,70.8
+Arlo SoHo,SoHo / Hudson Square,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,Canal St,81 St-Museum of Natural History,2.65,7.73,14.24,24.62,49.5
+Arlo SoHo,SoHo / Hudson Square,Statue of Liberty,1.0,Canal St,South Ferry,2.65,37.22,4.79,44.65,27.92
 Arlo SoHo,SoHo / Hudson Square,World Trade Center,0.7,Canal St,WTC Cortlandt,2.65,1.78,3.0,7.43,80.88
-Arlo SoHo,SoHo / Hudson Square,Brooklyn Bridge,0.55,Canal St,Fulton St,2.65,11.23,3.0,16.87,61.75
-Arlo SoHo,SoHo / Hudson Square,Statue of Liberty,0.4,Canal St,South Ferry,2.65,37.22,4.79,44.65,27.92
+Arlo SoHo,SoHo / Hudson Square,Brooklyn Bridge,0.65,Canal St,Fulton St,2.65,11.23,3.0,16.87,61.75
+Arlo SoHo,SoHo / Hudson Square,Chelsea Market,0.4,Canal St,14 St,2.65,5.16,4.09,11.89,71.19
 Arlo SoHo,SoHo / Hudson Square,Washington Square Park,0.35,Canal St,W 4 St-Wash Sq,2.65,3.94,3.0,9.59,76.03
-Arlo SoHo,SoHo / Hudson Square,Chelsea Market,0.25,Canal St,14 St,2.65,5.16,4.09,11.89,71.19
-citizenM New York Bowery,Bowery / Lower East Side,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,Bowery,42 St-Bryant Pk,1.01,1.56,7.71,10.28,74.56
-citizenM New York Bowery,Bowery / Lower East Side,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,Bowery,81 St-Museum of Natural History,1.01,7.73,14.09,22.82,52.1
-citizenM New York Bowery,Bowery / Lower East Side,Williamsburg,1.0,Bowery,Marcy Av,1.01,0.8,6.65,8.45,78.55
-citizenM New York Bowery,Bowery / Lower East Side,SoHo,0.95,Bowery,Canal St,1.01,3.52,3.0,7.53,80.65
+Arlo SoHo,SoHo / Hudson Square,SoHo,0.3,Canal St,Canal St,2.65,3.52,3.0,9.17,76.96
+Arlo SoHo,SoHo / Hudson Square,Williamsburg,0.25,Canal St,Marcy Av,2.65,0.8,8.79,12.24,70.49
+citizenM New York Bowery,Bowery / Lower East Side,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,Bowery,42 St-Bryant Pk,1.01,1.56,7.71,10.28,74.56
+citizenM New York Bowery,Bowery / Lower East Side,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,Bowery,81 St-Museum of Natural History,1.01,7.73,14.09,22.82,52.1
+citizenM New York Bowery,Bowery / Lower East Side,Statue of Liberty,1.0,Bowery,South Ferry,1.01,37.22,5.24,43.47,28.88
 citizenM New York Bowery,Bowery / Lower East Side,World Trade Center,0.7,Bowery,WTC Cortlandt,1.01,1.78,3.61,6.39,83.3
-citizenM New York Bowery,Bowery / Lower East Side,Brooklyn Bridge,0.55,Bowery,Fulton St,1.01,11.23,3.22,15.46,64.3
-citizenM New York Bowery,Bowery / Lower East Side,Statue of Liberty,0.4,Bowery,South Ferry,1.01,37.22,5.24,43.47,28.88
+citizenM New York Bowery,Bowery / Lower East Side,Brooklyn Bridge,0.65,Bowery,Fulton St,1.01,11.23,3.22,15.46,64.3
+citizenM New York Bowery,Bowery / Lower East Side,Chelsea Market,0.4,Bowery,14 St,1.01,5.16,4.77,10.93,73.17
 citizenM New York Bowery,Bowery / Lower East Side,Washington Square Park,0.35,Bowery,W 4 St-Wash Sq,1.01,3.94,3.0,7.95,79.69
-citizenM New York Bowery,Bowery / Lower East Side,Chelsea Market,0.25,Bowery,14 St,1.01,5.16,4.77,10.93,73.17
-The William Vale,Williamsburg,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,Nassau Av,42 St-Bryant Pk,6.5,1.56,8.65,16.71,62.04
-The William Vale,Williamsburg,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,Nassau Av,81 St-Museum of Natural History,6.5,7.73,13.11,27.34,45.78
-The William Vale,Williamsburg,Williamsburg,1.0,Nassau Av,Marcy Av,6.5,0.8,3.78,11.08,72.86
-The William Vale,Williamsburg,SoHo,0.95,Nassau Av,Canal St,6.5,3.52,9.28,19.3,57.61
+citizenM New York Bowery,Bowery / Lower East Side,SoHo,0.3,Bowery,Canal St,1.01,3.52,3.0,7.53,80.65
+citizenM New York Bowery,Bowery / Lower East Side,Williamsburg,0.25,Bowery,Marcy Av,1.01,0.8,6.65,8.45,78.55
+The William Vale,Williamsburg,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,Nassau Av,42 St-Bryant Pk,6.5,1.56,8.65,16.71,62.04
+The William Vale,Williamsburg,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,Nassau Av,81 St-Museum of Natural History,6.5,7.73,13.11,27.34,45.78
+The William Vale,Williamsburg,Statue of Liberty,1.0,Nassau Av,South Ferry,6.5,37.22,11.65,55.37,20.55
 The William Vale,Williamsburg,World Trade Center,0.7,Nassau Av,WTC Cortlandt,6.5,1.78,10.65,18.94,58.21
-The William Vale,Williamsburg,Brooklyn Bridge,0.55,Nassau Av,Fulton St,6.5,11.23,9.92,27.65,45.39
-The William Vale,Williamsburg,Statue of Liberty,0.4,Nassau Av,South Ferry,6.5,37.22,11.65,55.37,20.55
+The William Vale,Williamsburg,Brooklyn Bridge,0.65,Nassau Av,Fulton St,6.5,11.23,9.92,27.65,45.39
+The William Vale,Williamsburg,Chelsea Market,0.4,Nassau Av,14 St,6.5,5.16,9.23,20.9,55.04
 The William Vale,Williamsburg,Washington Square Park,0.35,Nassau Av,W 4 St-Wash Sq,6.5,3.94,8.47,18.92,58.25
-The William Vale,Williamsburg,Chelsea Market,0.25,Nassau Av,14 St,6.5,5.16,9.23,20.9,55.04
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,"Cluster (7 POIs): Empire State Building, MoMA, Grand Central Terminal, Bryant Park, Rockefeller Center, Penn Station, Times Square",4.6,Jay St-MetroTech,42 St-Bryant Pk,5.5,1.56,13.8,20.85,55.11
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,"Cluster (2 POIs): The Metropolitan Museum of Art, Central Park",1.2,Jay St-MetroTech,81 St-Museum of Natural History,5.5,7.73,19.98,33.21,38.72
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Williamsburg,1.0,Jay St-MetroTech,Marcy Av,5.5,0.8,5.96,12.26,70.46
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,SoHo,0.95,Jay St-MetroTech,Canal St,5.5,3.52,7.63,16.65,62.14
+The William Vale,Williamsburg,SoHo,0.3,Nassau Av,Canal St,6.5,3.52,9.28,19.3,57.61
+The William Vale,Williamsburg,Williamsburg,0.25,Nassau Av,Marcy Av,6.5,0.8,3.78,11.08,72.86
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,"Cluster (7 POIs): Times Square, Empire State Building, Grand Central Terminal, Rockefeller Center, Bryant Park, Penn Station, MoMA",4.750000000000001,Jay St-MetroTech,42 St-Bryant Pk,5.5,1.56,13.8,20.85,55.11
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,"Cluster (2 POIs): Central Park, The Metropolitan Museum of Art",1.6,Jay St-MetroTech,81 St-Museum of Natural History,5.5,7.73,19.98,33.21,38.72
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Statue of Liberty,1.0,Jay St-MetroTech,South Ferry,5.5,37.22,5.17,47.88,25.46
 Hampton Inn Brooklyn Downtown,Downtown Brooklyn,World Trade Center,0.7,Jay St-MetroTech,WTC Cortlandt,5.5,1.78,6.22,13.5,68.0
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Brooklyn Bridge,0.55,Jay St-MetroTech,Fulton St,5.5,11.23,5.18,21.9,53.49
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Statue of Liberty,0.4,Jay St-MetroTech,South Ferry,5.5,37.22,5.17,47.88,25.46
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Brooklyn Bridge,0.65,Jay St-MetroTech,Fulton St,5.5,11.23,5.18,21.9,53.49
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Chelsea Market,0.4,Jay St-MetroTech,14 St,5.5,5.16,11.15,21.81,53.63
 Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Washington Square Park,0.35,Jay St-MetroTech,W 4 St-Wash Sq,5.5,3.94,9.26,18.7,58.61
-Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Chelsea Market,0.25,Jay St-MetroTech,14 St,5.5,5.16,11.15,21.81,53.63
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,SoHo,0.3,Jay St-MetroTech,Canal St,5.5,3.52,7.63,16.65,62.14
+Hampton Inn Brooklyn Downtown,Downtown Brooklyn,Williamsburg,0.25,Jay St-MetroTech,Marcy Av,5.5,0.8,5.96,12.26,70.46

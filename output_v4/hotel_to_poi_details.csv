@@ -1,0 +1,193 @@
+hotel_name,poi_name,poi_weight,cluster_id,destination_station,hotel_walk_minutes,transit_minutes,poi_walk_minutes,total_trip_minutes,accessibility_score,weighted_score
+"The New Yorker, A Wyndham Hotel",Times Square,5.0,0,Times Sq-42 St,1.5,3.07,2.91,7.47,74.16,370.82
+"The New Yorker, A Wyndham Hotel",Empire State Building,4.5,1,34 St-Herald Sq,1.5,3.0,2.87,7.37,74.46,335.09
+"The New Yorker, A Wyndham Hotel",Grand Central Terminal,4.0,0,Grand Central-42 St,1.5,5.86,1.5,8.86,70.17,280.67
+"The New Yorker, A Wyndham Hotel",Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,1.5,5.2,2.77,9.47,68.46,273.85
+"The New Yorker, A Wyndham Hotel",MoMA,3.5,0,5 Av/53 St,1.5,7.41,3.03,11.94,62.03,217.11
+"The New Yorker, A Wyndham Hotel",Central Park South,4.0,0,57 St,1.5,7.85,2.86,12.21,61.37,245.49
+"The New Yorker, A Wyndham Hotel",The High Line,3.5,2,23 St,1.5,3.4,7.69,12.59,60.43,211.49
+"The New Yorker, A Wyndham Hotel",SoHo Shopping District,3.0,3,Canal St,1.5,14.48,3.51,19.49,45.86,137.58
+"The New Yorker, A Wyndham Hotel",One World Trade Center,4.0,4,WTC Cortlandt,1.5,20.03,1.75,23.28,39.4,157.62
+"The New Yorker, A Wyndham Hotel",Wall Street / Charging Bull,3.0,5,Bowling Green,1.5,23.35,1.5,26.35,34.86,104.58
+"The New Yorker, A Wyndham Hotel",Brooklyn Bridge Promenade,3.5,6,Fulton St,1.5,20.56,11.18,33.24,26.46,92.6
+"The New Yorker, A Wyndham Hotel",DUMBO Waterfront,3.0,7,York St,1.5,23.88,3.0,28.39,32.13,96.39
+"The New Yorker, A Wyndham Hotel",Williamsburg Bedford Ave,2.5,8,Bedford Av,1.5,20.83,2.32,24.65,37.3,93.25
+"The New Yorker, A Wyndham Hotel",Metropolitan Museum of Art,4.5,9,86 St,1.5,18.44,8.01,27.96,32.68,147.08
+"The New Yorker, A Wyndham Hotel",Washington Square Park,3.0,10,W 4 St-Wash Sq,1.5,9.65,3.99,15.14,54.58,163.75
+"The New Yorker, A Wyndham Hotel",Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,1.5,3.45,2.91,7.86,73.02,182.56
+Ace Hotel New York,Times Square,5.0,0,Times Sq-42 St,1.5,4.98,2.91,9.38,68.71,343.55
+Ace Hotel New York,Empire State Building,4.5,1,34 St-Herald Sq,1.5,3.0,2.87,7.37,74.46,335.09
+Ace Hotel New York,Grand Central Terminal,4.0,0,Grand Central-42 St,1.5,5.12,1.5,8.12,72.28,289.13
+Ace Hotel New York,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,1.5,6.68,2.77,10.95,64.54,258.16
+Ace Hotel New York,MoMA,3.5,0,5 Av/53 St,1.5,8.35,3.03,12.88,59.74,209.1
+Ace Hotel New York,Central Park South,4.0,0,57 St,1.5,9.5,2.86,13.86,57.44,229.77
+Ace Hotel New York,The High Line,3.5,2,23 St,1.5,3.31,7.69,12.5,60.65,212.26
+Ace Hotel New York,SoHo Shopping District,3.0,3,Canal St,1.5,12.27,3.51,17.28,50.11,150.32
+Ace Hotel New York,One World Trade Center,4.0,4,WTC Cortlandt,1.5,17.78,1.75,21.04,43.11,172.43
+Ace Hotel New York,Wall Street / Charging Bull,3.0,5,Bowling Green,1.5,21.01,1.5,24.01,38.27,114.81
+Ace Hotel New York,Brooklyn Bridge Promenade,3.5,6,Fulton St,1.5,18.0,11.18,30.68,29.31,102.58
+Ace Hotel New York,DUMBO Waterfront,3.0,7,York St,1.5,20.61,3.0,25.11,36.63,109.89
+Ace Hotel New York,Williamsburg Bedford Ave,2.5,8,Bedford Av,1.5,17.32,2.32,21.15,42.92,107.3
+Ace Hotel New York,Metropolitan Museum of Art,4.5,9,86 St,1.5,19.73,8.01,29.24,31.05,139.72
+Ace Hotel New York,Washington Square Park,3.0,10,W 4 St-Wash Sq,1.5,7.43,3.99,12.92,59.65,178.95
+Ace Hotel New York,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,1.5,6.74,2.91,11.15,64.02,160.06
+The Plaza Hotel,Times Square,5.0,0,Times Sq-42 St,1.5,6.15,2.91,10.55,65.57,327.84
+The Plaza Hotel,Empire State Building,4.5,1,34 St-Herald Sq,1.5,8.8,2.87,13.17,59.06,265.75
+The Plaza Hotel,Grand Central Terminal,4.0,0,Grand Central-42 St,1.5,6.21,1.5,9.21,69.18,276.71
+The Plaza Hotel,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,1.5,4.03,2.77,8.3,71.76,287.05
+The Plaza Hotel,MoMA,3.5,0,5 Av/53 St,1.5,3.0,3.03,7.53,73.99,258.95
+The Plaza Hotel,Central Park South,4.0,0,57 St,1.5,3.0,2.86,7.36,74.5,298.01
+The Plaza Hotel,The High Line,3.5,2,23 St,1.5,12.42,7.69,21.61,42.13,147.46
+The Plaza Hotel,SoHo Shopping District,3.0,3,Canal St,1.5,22.8,3.51,27.8,32.88,98.65
+The Plaza Hotel,One World Trade Center,4.0,4,WTC Cortlandt,1.5,28.3,1.75,31.56,28.3,113.21
+The Plaza Hotel,Wall Street / Charging Bull,3.0,5,Bowling Green,1.5,31.51,1.5,34.51,25.15,75.45
+The Plaza Hotel,Brooklyn Bridge Promenade,3.5,6,Fulton St,1.5,28.42,11.18,41.1,19.32,67.62
+The Plaza Hotel,DUMBO Waterfront,3.0,7,York St,1.5,29.99,3.0,34.5,25.16,75.49
+The Plaza Hotel,Williamsburg Bedford Ave,2.5,8,Bedford Av,1.5,22.94,2.32,26.76,34.28,85.71
+The Plaza Hotel,Metropolitan Museum of Art,4.5,9,86 St,1.5,9.3,8.01,18.81,47.12,212.06
+The Plaza Hotel,Washington Square Park,3.0,10,W 4 St-Wash Sq,1.5,17.95,3.99,23.44,39.16,117.48
+The Plaza Hotel,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,1.5,10.93,2.91,15.34,54.14,135.35
+citizenM New York Bowery,Times Square,5.0,0,Times Sq-42 St,1.5,16.89,2.91,21.3,42.65,213.27
+citizenM New York Bowery,Empire State Building,4.5,1,34 St-Herald Sq,1.5,13.84,2.87,18.21,48.27,217.2
+citizenM New York Bowery,Grand Central Terminal,4.0,0,Grand Central-42 St,1.5,15.9,1.5,18.9,46.95,187.81
+citizenM New York Bowery,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,1.5,18.47,2.77,22.74,40.27,161.08
+citizenM New York Bowery,MoMA,3.5,0,5 Av/53 St,1.5,19.77,3.03,24.3,37.83,132.42
+citizenM New York Bowery,Central Park South,4.0,0,57 St,1.5,21.22,2.86,25.58,35.95,143.78
+citizenM New York Bowery,The High Line,3.5,2,23 St,1.5,12.06,7.69,21.25,42.75,149.62
+citizenM New York Bowery,SoHo Shopping District,3.0,3,Canal St,1.5,4.54,3.51,9.54,68.26,204.79
+citizenM New York Bowery,One World Trade Center,4.0,4,WTC Cortlandt,1.5,7.58,1.75,10.83,64.84,259.38
+citizenM New York Bowery,Wall Street / Charging Bull,3.0,5,Bowling Green,1.5,10.15,1.5,13.15,59.1,177.29
+citizenM New York Bowery,Brooklyn Bridge Promenade,3.5,6,Fulton St,1.5,6.77,11.18,19.45,45.93,160.75
+citizenM New York Bowery,DUMBO Waterfront,3.0,7,York St,1.5,9.18,3.0,13.68,57.86,173.58
+citizenM New York Bowery,Williamsburg Bedford Ave,2.5,8,Bedford Av,1.5,13.19,2.32,17.01,50.65,126.62
+citizenM New York Bowery,Metropolitan Museum of Art,4.5,9,86 St,1.5,30.8,8.01,40.31,19.94,89.73
+citizenM New York Bowery,Washington Square Park,3.0,10,W 4 St-Wash Sq,1.5,6.09,3.99,11.58,62.93,188.78
+citizenM New York Bowery,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,1.5,16.87,2.91,21.28,42.7,106.74
+Moxy NYC Times Square,Times Square,5.0,0,Times Sq-42 St,2.3,3.0,2.91,8.21,72.01,360.07
+Moxy NYC Times Square,Empire State Building,4.5,1,34 St-Herald Sq,2.3,3.0,2.87,8.17,72.12,324.52
+Moxy NYC Times Square,Grand Central Terminal,4.0,0,Grand Central-42 St,2.3,4.0,1.5,7.8,73.19,292.78
+Moxy NYC Times Square,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,2.3,4.77,2.77,9.84,67.47,269.88
+Moxy NYC Times Square,MoMA,3.5,0,5 Av/53 St,2.3,6.61,3.03,11.94,62.02,217.08
+Moxy NYC Times Square,Central Park South,4.0,0,57 St,2.3,7.6,2.86,12.76,60.02,240.1
+Moxy NYC Times Square,The High Line,3.5,2,23 St,2.3,4.03,7.69,14.02,57.07,199.76
+Moxy NYC Times Square,SoHo Shopping District,3.0,3,Canal St,2.3,14.14,3.51,19.95,45.02,135.05
+Moxy NYC Times Square,One World Trade Center,4.0,4,WTC Cortlandt,2.3,19.68,1.75,23.74,38.69,154.78
+Moxy NYC Times Square,Wall Street / Charging Bull,3.0,5,Bowling Green,2.3,22.93,1.5,26.74,34.32,102.96
+Moxy NYC Times Square,Brooklyn Bridge Promenade,3.5,6,Fulton St,2.3,19.96,11.18,33.44,26.24,91.86
+Moxy NYC Times Square,DUMBO Waterfront,3.0,7,York St,2.3,22.57,3.0,27.87,32.79,98.38
+Moxy NYC Times Square,Williamsburg Bedford Ave,2.5,8,Bedford Av,2.3,18.69,2.32,23.31,39.36,98.41
+Moxy NYC Times Square,Metropolitan Museum of Art,4.5,9,86 St,2.3,17.98,8.01,28.29,32.25,145.11
+Moxy NYC Times Square,Washington Square Park,3.0,10,W 4 St-Wash Sq,2.3,9.27,3.99,15.56,53.66,160.99
+Moxy NYC Times Square,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,2.3,5.76,2.91,10.97,64.49,161.23
+New York Marriott Marquis,Times Square,5.0,0,Times Sq-42 St,2.84,3.0,2.91,8.74,70.48,352.42
+New York Marriott Marquis,Empire State Building,4.5,1,34 St-Herald Sq,2.84,5.01,2.87,10.72,65.13,293.08
+New York Marriott Marquis,Grand Central Terminal,4.0,0,Grand Central-42 St,2.84,4.59,1.5,8.93,69.97,279.9
+New York Marriott Marquis,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,2.84,3.0,2.77,8.61,70.87,283.5
+New York Marriott Marquis,MoMA,3.5,0,5 Av/53 St,2.84,3.16,3.03,9.03,69.69,243.93
+New York Marriott Marquis,Central Park South,4.0,0,57 St,2.84,3.04,2.86,8.73,70.52,282.08
+New York Marriott Marquis,The High Line,3.5,2,23 St,2.84,8.18,7.69,18.71,47.32,165.61
+New York Marriott Marquis,SoHo Shopping District,3.0,3,Canal St,2.84,18.99,3.51,25.34,36.29,108.88
+New York Marriott Marquis,One World Trade Center,4.0,4,WTC Cortlandt,2.84,24.54,1.75,29.14,31.18,124.71
+New York Marriott Marquis,Wall Street / Charging Bull,3.0,5,Bowling Green,2.84,27.82,1.5,32.16,27.63,82.89
+New York Marriott Marquis,Brooklyn Bridge Promenade,3.5,6,Fulton St,2.84,24.88,11.18,38.9,21.1,73.84
+New York Marriott Marquis,DUMBO Waterfront,3.0,7,York St,2.84,27.34,3.0,33.18,26.52,79.57
+New York Marriott Marquis,Williamsburg Bedford Ave,2.5,8,Bedford Av,2.84,22.11,2.32,27.27,33.59,83.99
+New York Marriott Marquis,Metropolitan Museum of Art,4.5,9,86 St,2.84,13.63,8.01,24.48,37.57,169.05
+New York Marriott Marquis,Washington Square Park,3.0,10,W 4 St-Wash Sq,2.84,14.11,3.99,20.94,43.28,129.83
+New York Marriott Marquis,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,2.84,6.56,2.91,12.31,61.12,152.8
+Lotte New York Palace,Times Square,5.0,0,Times Sq-42 St,3.01,4.36,2.91,10.27,66.3,331.5
+Lotte New York Palace,Empire State Building,4.5,1,34 St-Herald Sq,3.01,6.69,2.87,12.57,60.47,272.12
+Lotte New York Palace,Grand Central Terminal,4.0,0,Grand Central-42 St,3.01,3.96,1.5,8.47,71.25,285.02
+Lotte New York Palace,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,3.01,3.0,2.77,8.78,70.38,281.53
+Lotte New York Palace,MoMA,3.5,0,5 Av/53 St,3.01,3.0,3.03,9.04,69.64,243.75
+Lotte New York Palace,Central Park South,4.0,0,57 St,3.01,3.0,2.86,8.87,70.13,280.52
+Lotte New York Palace,The High Line,3.5,2,23 St,3.01,10.47,7.69,21.17,42.88,150.09
+Lotte New York Palace,SoHo Shopping District,3.0,3,Canal St,3.01,20.6,3.51,27.12,33.8,101.39
+Lotte New York Palace,One World Trade Center,4.0,4,WTC Cortlandt,3.01,26.09,1.75,30.85,29.11,116.43
+Lotte New York Palace,Wall Street / Charging Bull,3.0,5,Bowling Green,3.01,29.28,1.5,33.79,25.88,77.65
+Lotte New York Palace,Brooklyn Bridge Promenade,3.5,6,Fulton St,3.01,26.17,11.18,40.36,19.9,69.64
+Lotte New York Palace,DUMBO Waterfront,3.0,7,York St,3.01,27.75,3.0,33.76,25.91,77.73
+Lotte New York Palace,Williamsburg Bedford Ave,2.5,8,Bedford Av,3.01,21.04,2.32,26.38,34.81,87.03
+Lotte New York Palace,Metropolitan Museum of Art,4.5,9,86 St,3.01,11.39,8.01,22.41,40.8,183.6
+Lotte New York Palace,Washington Square Park,3.0,10,W 4 St-Wash Sq,3.01,15.78,3.99,22.77,40.21,120.64
+Lotte New York Palace,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,3.01,9.65,2.91,15.57,53.64,134.1
+Arlo SoHo,Times Square,5.0,0,Times Sq-42 St,4.11,15.22,2.91,22.23,41.1,205.48
+Arlo SoHo,Empire State Building,4.5,1,34 St-Herald Sq,4.11,12.25,2.87,19.23,46.34,208.52
+Arlo SoHo,Grand Central Terminal,4.0,0,Grand Central-42 St,4.11,15.26,1.5,20.87,43.39,173.57
+Arlo SoHo,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,4.11,17.1,2.77,23.98,38.33,153.3
+Arlo SoHo,MoMA,3.5,0,5 Av/53 St,4.11,18.79,3.03,25.93,35.44,124.05
+Arlo SoHo,Central Park South,4.0,0,57 St,4.11,19.93,2.86,26.9,34.1,136.38
+Arlo SoHo,The High Line,3.5,2,23 St,4.11,9.41,7.69,21.21,42.81,149.84
+Arlo SoHo,SoHo Shopping District,3.0,3,Canal St,4.11,3.0,3.51,10.62,65.4,196.19
+Arlo SoHo,One World Trade Center,4.0,4,WTC Cortlandt,4.11,7.36,1.75,13.22,58.93,235.72
+Arlo SoHo,Wall Street / Charging Bull,3.0,5,Bowling Green,4.11,10.65,1.5,16.26,52.19,156.58
+Arlo SoHo,Brooklyn Bridge Promenade,3.5,6,Fulton St,4.11,7.91,11.18,23.21,39.52,138.32
+Arlo SoHo,DUMBO Waterfront,3.0,7,York St,4.11,13.06,3.0,20.18,44.62,133.86
+Arlo SoHo,Williamsburg Bedford Ave,2.5,8,Bedford Av,4.11,17.1,2.32,23.54,39.01,97.52
+Arlo SoHo,Metropolitan Museum of Art,4.5,9,86 St,4.11,30.15,8.01,42.27,18.44,82.96
+Arlo SoHo,Washington Square Park,3.0,10,W 4 St-Wash Sq,4.11,3.08,3.99,11.17,63.96,191.88
+Arlo SoHo,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,4.11,13.86,2.91,20.88,43.37,108.43
+"The Standard, High Line",Times Square,5.0,0,Times Sq-42 St,5.78,9.53,2.91,18.21,48.26,241.29
+"The Standard, High Line",Empire State Building,4.5,1,34 St-Herald Sq,5.78,6.91,2.87,15.56,53.67,241.5
+"The Standard, High Line",Grand Central Terminal,4.0,0,Grand Central-42 St,5.78,10.69,1.5,17.97,48.73,194.92
+"The Standard, High Line",Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,5.78,11.59,2.77,20.14,44.68,178.73
+"The Standard, High Line",MoMA,3.5,0,5 Av/53 St,5.78,13.58,3.03,22.39,40.83,142.92
+"The Standard, High Line",Central Park South,4.0,0,57 St,5.78,14.38,2.86,23.02,39.82,159.29
+"The Standard, High Line",The High Line,3.5,2,23 St,5.78,3.28,7.69,16.75,51.16,179.07
+"The Standard, High Line",SoHo Shopping District,3.0,3,Canal St,5.78,8.01,3.51,17.3,50.06,150.17
+"The Standard, High Line",One World Trade Center,4.0,4,WTC Cortlandt,5.78,13.49,1.75,21.02,43.13,172.54
+"The Standard, High Line",Wall Street / Charging Bull,3.0,5,Bowling Green,5.78,16.83,1.5,24.11,38.12,114.37
+"The Standard, High Line",Brooklyn Bridge Promenade,3.5,6,Fulton St,5.78,14.25,11.18,31.22,28.69,100.42
+"The Standard, High Line",DUMBO Waterfront,3.0,7,York St,5.78,18.78,3.0,27.56,33.2,99.6
+"The Standard, High Line",Williamsburg Bedford Ave,2.5,8,Bedford Av,5.78,19.28,2.32,27.39,33.44,83.6
+"The Standard, High Line",Metropolitan Museum of Art,4.5,9,86 St,5.78,24.91,8.01,38.7,21.27,95.7
+"The Standard, High Line",Washington Square Park,3.0,10,W 4 St-Wash Sq,5.78,3.55,3.99,13.32,58.69,176.08
+"The Standard, High Line",Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,5.78,7.53,2.91,16.22,52.27,130.68
+Conrad New York Downtown,Times Square,5.0,0,Times Sq-42 St,5.65,22.57,2.91,31.13,28.79,143.94
+Conrad New York Downtown,Empire State Building,4.5,1,34 St-Herald Sq,5.65,19.6,2.87,28.12,32.47,146.11
+Conrad New York Downtown,Grand Central Terminal,4.0,0,Grand Central-42 St,5.65,22.46,1.5,29.61,30.59,122.37
+Conrad New York Downtown,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,5.65,24.44,2.77,32.86,26.86,107.43
+Conrad New York Downtown,MoMA,3.5,0,5 Av/53 St,5.65,26.09,3.03,34.77,24.89,87.1
+Conrad New York Downtown,Central Park South,4.0,0,57 St,5.65,27.28,2.86,35.79,23.9,95.58
+Conrad New York Downtown,The High Line,3.5,2,23 St,5.65,16.68,7.69,30.02,30.09,105.32
+Conrad New York Downtown,SoHo Shopping District,3.0,3,Canal St,5.65,5.56,3.51,14.71,55.51,166.54
+Conrad New York Downtown,One World Trade Center,4.0,4,WTC Cortlandt,5.65,3.0,1.75,10.41,65.95,263.81
+Conrad New York Downtown,Wall Street / Charging Bull,3.0,5,Bowling Green,5.65,3.34,1.5,10.5,65.71,197.14
+Conrad New York Downtown,Brooklyn Bridge Promenade,3.5,6,Fulton St,5.65,3.0,11.18,19.84,45.23,158.3
+Conrad New York Downtown,DUMBO Waterfront,3.0,7,York St,5.65,10.24,3.0,18.89,46.96,140.89
+Conrad New York Downtown,Williamsburg Bedford Ave,2.5,8,Bedford Av,5.65,19.75,2.32,27.72,32.99,82.49
+Conrad New York Downtown,Metropolitan Museum of Art,4.5,9,86 St,5.65,37.41,8.01,51.07,12.97,58.34
+Conrad New York Downtown,Washington Square Park,3.0,10,W 4 St-Wash Sq,5.65,10.43,3.99,20.07,44.81,134.42
+Conrad New York Downtown,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,5.65,20.89,2.91,29.45,30.79,76.97
+The William Vale,Times Square,5.0,0,Times Sq-42 St,6.81,20.84,2.91,30.56,29.45,147.27
+The William Vale,Empire State Building,4.5,1,34 St-Herald Sq,6.81,18.65,2.87,28.34,32.19,144.85
+The William Vale,Grand Central Terminal,4.0,0,Grand Central-42 St,6.81,17.58,1.5,25.9,35.49,141.97
+The William Vale,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,6.81,21.17,2.77,30.75,29.23,116.93
+The William Vale,MoMA,3.5,0,5 Av/53 St,6.81,21.04,3.03,30.89,29.06,101.73
+The William Vale,Central Park South,4.0,0,57 St,6.81,22.98,2.86,32.65,27.09,108.36
+The William Vale,The High Line,3.5,2,23 St,6.81,19.77,7.69,34.27,25.39,88.87
+The William Vale,SoHo Shopping District,3.0,3,Canal St,6.81,17.68,3.51,28.0,32.63,97.89
+The William Vale,One World Trade Center,4.0,4,WTC Cortlandt,6.81,19.75,1.75,28.31,32.22,128.88
+The William Vale,Wall Street / Charging Bull,3.0,5,Bowling Green,6.81,21.07,1.5,29.38,30.87,92.61
+The William Vale,Brooklyn Bridge Promenade,3.5,6,Fulton St,6.81,17.97,11.18,35.97,23.72,83.02
+The William Vale,DUMBO Waterfront,3.0,7,York St,6.81,12.93,3.0,22.74,40.26,120.79
+The William Vale,Williamsburg Bedford Ave,2.5,8,Bedford Av,6.81,3.0,2.32,12.14,61.54,153.86
+The William Vale,Metropolitan Museum of Art,4.5,9,86 St,6.81,29.05,8.01,43.87,17.29,77.82
+The William Vale,Washington Square Park,3.0,10,W 4 St-Wash Sq,6.81,16.96,3.99,27.76,32.94,98.82
+The William Vale,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,6.81,24.05,2.91,33.78,25.89,64.74
+Hampton Inn Brooklyn Downtown,Times Square,5.0,0,Times Sq-42 St,6.04,25.49,2.91,34.44,25.22,126.09
+Hampton Inn Brooklyn Downtown,Empire State Building,4.5,1,34 St-Herald Sq,6.04,22.5,2.87,31.41,28.46,128.09
+Hampton Inn Brooklyn Downtown,Grand Central Terminal,4.0,0,Grand Central-42 St,6.04,23.79,1.5,31.33,28.56,114.24
+Hampton Inn Brooklyn Downtown,Rockefeller Center,4.0,0,47-50 Sts-Rockefeller Ctr,6.04,26.81,2.77,35.62,24.05,96.21
+Hampton Inn Brooklyn Downtown,MoMA,3.5,0,5 Av/53 St,6.04,27.75,3.03,36.82,22.93,80.24
+Hampton Inn Brooklyn Downtown,Central Park South,4.0,0,57 St,6.04,29.41,2.86,38.31,21.6,86.41
+Hampton Inn Brooklyn Downtown,The High Line,3.5,2,23 St,6.04,21.17,7.69,34.9,24.76,86.66
+Hampton Inn Brooklyn Downtown,SoHo Shopping District,3.0,3,Canal St,6.04,12.17,3.51,21.72,41.94,125.83
+Hampton Inn Brooklyn Downtown,One World Trade Center,4.0,4,WTC Cortlandt,6.04,10.24,1.75,18.03,48.61,194.43
+Hampton Inn Brooklyn Downtown,Wall Street / Charging Bull,3.0,5,Bowling Green,6.04,9.8,1.5,17.34,49.97,149.92
+Hampton Inn Brooklyn Downtown,Brooklyn Bridge Promenade,3.5,6,Fulton St,6.04,7.95,11.18,25.18,36.53,127.84
+Hampton Inn Brooklyn Downtown,DUMBO Waterfront,3.0,7,York St,6.04,3.0,3.0,12.04,61.77,185.31
+Hampton Inn Brooklyn Downtown,Williamsburg Bedford Ave,2.5,8,Bedford Av,6.04,12.93,2.32,21.29,42.68,106.69
+Hampton Inn Brooklyn Downtown,Metropolitan Museum of Art,4.5,9,86 St,6.04,38.1,8.01,52.15,12.42,55.87
+Hampton Inn Brooklyn Downtown,Washington Square Park,3.0,10,W 4 St-Wash Sq,6.04,15.25,3.99,25.27,36.39,109.16
+Hampton Inn Brooklyn Downtown,Hudson Yards / Vessel,2.5,2,34 St-Hudson Yards,6.04,26.0,2.91,34.96,24.7,61.76
